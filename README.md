@@ -56,14 +56,10 @@ python ORB.py
 ## 專案結構
 
 ```
-├── ORB.py                # 主程式原始碼
-├── ORB(程式碼).pyw       # Windows 無命令列視窗版本
-├── ORB系統.spec           # PyInstaller 打包設定
-├── convert_to_docx.py    # Markdown 轉 Word 工具
-├── 操作手冊.md            # 完整操作手冊
-└── ORB系統EXE檔/          # 打包後的執行檔
+├── ORB.py       # 主程式原始碼
+└── 操作手冊.md   # 完整操作手冊
 ```
 
-## 授權
+## 關於
 
-此專案由台北市政府資訊局開發維護。
+此專案由台北市政府資訊局替代役役男開發，後續由資訊局同仁接手維護。
